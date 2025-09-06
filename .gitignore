@@ -1,0 +1,4 @@
+echo ".idea/
+*.iml
+out/
+*.class" >> .gitignore
